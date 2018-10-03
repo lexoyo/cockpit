@@ -6,7 +6,6 @@
 .settings
 .idea
 .env
-composer.lock
 package-lock.json
 /lib/**/doc/*
 /lib/**/docs/*
